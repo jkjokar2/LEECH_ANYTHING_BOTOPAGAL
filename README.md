@@ -150,7 +150,7 @@
 ➢ `/status`
 
 
-[![BOTOPAGAL](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![BOTOPAGAL](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/BOTOPAGAL)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
